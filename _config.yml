@@ -9,7 +9,7 @@ baseurl: "/LJT-Homepage"
 repository: "Earthdroburst/LJT-Homepage"
 
 author:
-  avatar: "profile.png"
+  avatar: "profile.svg"
   name: "Junteng Liu"
   pronouns:
   bio: "First-year PhD candidate at HKUST NLP Group"
